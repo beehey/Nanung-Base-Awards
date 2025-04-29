@@ -1,0 +1,56 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+header {
+    background-color: #FFD700;
+    color: #000000;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.hero {
+    background-color: #111111;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.hero h2 {
+    color: #FFD700;
+}
+
+.winners {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+.winners h2 {
+    color: #FFD700;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.winners ul {
+    list-style: none;
+    padding: 0;
+}
+
+.winners li {
+    background-color: #222222;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #FFD700;
+    color: #000000;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+}
